@@ -32,3 +32,9 @@ def print_triangle(triangle):
 if __name__ == "__main__":
     # Example: Print Pascal's Triangle with 5 rows
     print_triangle(pascal_triangle(5))
+    def main():
+        # Example: Print Pascal's Triangle with 5 rows
+        print_triangle(pascal_triangle(5))
+
+    if __name__ == "__main__":
+        main()
